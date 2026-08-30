@@ -2,6 +2,7 @@
   "name": "2048-game",
   "version": "1.0.0",
   "description": "Classic 2048 game implemented in JavaScript",
+  "homepage": "2048-game",
   "scripts": {
     "init": "mate-scripts init",
     "start": "mate-scripts start",
